@@ -17,4 +17,4 @@ The most important repositories – also known as the arcane arts – are below
 
 Would you to help out? We much appreciate users' contributions as it helps create more robust and secure code! 🎉
 
-To enter the realms of contribution, please first read the [contributing guide](../../CONTRIBUTING.md)
+To enter the realms of contribution, please first read the [contributing guide](../../CONTRIBUTING.md).
